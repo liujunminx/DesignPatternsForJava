@@ -1,2 +1,4 @@
-# JavaDesignPattern
-gof23种设计模式的简单结构和一些适用场景的demo
+JavaDesignPattern
+===
+仓库已有设计模式
+---
